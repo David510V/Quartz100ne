@@ -1,0 +1,65 @@
+ 
+    .tablet
+    {
+      margin-left: 20px;
+      font-size: 20px;
+      
+    }
+
+    .screen
+    {
+      margin-left:675px;
+      font-size: 32px;
+      
+    }
+
+    .ipad
+    {
+      margin-left: 40px;
+      margin-top: 0px;
+      font-size: 32px;
+      
+    }
+
+    .galaxy
+    {
+      font-size: 27px;
+    }
+    
+    
+    
+    .ipadPRO
+    {
+      margin-left: 65px;
+     font-size: 35px;
+      
+    }
+
+    .iphone5
+    {
+      font-size:27px;
+    }
+    
+    .imgScreen
+    {
+      height:180px;
+      max-width: 100%;
+      margin-top: 10px;
+    }
+
+
+    
+    .h1Screen
+    {
+      font-size: 75px;
+    }
+
+    .h1Galaxy
+    {
+      font-size: 50px;
+    }
+
+    .h1IpadPro
+    {
+      font-size: 65px;
+    }

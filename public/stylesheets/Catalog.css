@@ -1,0 +1,41 @@
+body
+{
+    background: #3E5151;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #DECBA4, #3E5151);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #DECBA4, #3E5151); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+nav
+{
+    background: #3E5151;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #DECBA4, #3E5151);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #DECBA4, #3E5151); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+p
+{
+    direction: rtl;
+}
+
+.jumbotron
+{
+  background: cover;
+  height: 30rem;
+  
+}
+
+
+.container
+{
+    border: 3px solid rgba(0,0,0,0);
+}
+.card-columns {
+    @include media-breakpoint-only(lg) {
+      column-count: 4;
+    }
+    @include media-breakpoint-only(xl) {
+      column-count: 5;
+    }
+  }

@@ -1,0 +1,91 @@
+body
+{
+    background: #3E5151;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #DECBA4, #3E5151);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #DECBA4, #3E5151); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+  
+    @media (min-width: 768px) {
+        .navbar-brand.abs
+            {
+                position: absolute;
+                width: 200px;
+                left: 0;
+                text-align: center;
+            }
+        }
+nav
+{
+    background: #3E5151;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #DECBA4, #3E5151);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #DECBA4, #3E5151); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#paro
+{
+  height: 100%;
+}
+p
+{
+    direction: rtl;
+}
+
+.jumbotron
+{
+  background: cover;
+  height: 30rem;
+  
+}
+
+
+.container
+{
+    border: 3px solid rgba(0,0,0,0);
+}
+
+
+
+
+.tablet
+{
+  margin-left: 20px;
+  font-size: 35px;
+  
+}
+
+.screen
+{
+  margin-left: 715px;
+  font-size: 35px;
+  
+}
+
+.ipad
+{
+  margin-left: 320px;
+  margin-top: 0px;
+  font-size: 10px;
+  
+}
+
+.galaxy
+{
+  font-size: 27px;
+}
+
+
+
+.ipadPRO
+{
+  margin-left: 65px;
+ font-size: 35px;
+  
+}
+
+.iphone5
+{
+  font-size:27px;
+}
